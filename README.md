@@ -1,3 +1,0 @@
-Learning-Python
-
-Matt.Pei
